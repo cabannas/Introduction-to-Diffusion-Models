@@ -5,7 +5,7 @@ from tqdm import tqdm
 from keras.datasets.mnist import load_data
 from matplotlib import pyplot as plt
 
-from UNet import UNet 
+from unet import UNet 
 
 
 class DiffusionModel():
