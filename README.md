@@ -4,7 +4,7 @@
 
 This repository contains materials and code as a result in completing the "Introduction to Diffusion Models" course from November 2023 available on Udemy, which author is Maxime Vandegar.
 
-## What You'll Learn
+## What You'll Find in the Course
 
 - **Understanding Diffusion Models**: Get to grips with the mechanics of how diffusion models operate.
 - **Implementation Skills**: Implement diffusion models from scratch using the robust PyTorch framework.
